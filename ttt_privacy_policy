@@ -4,139 +4,87 @@ Last Updated: 2025.11.17
 
 1. General Information
 
-TTT Enterprise (“we”, “our”, “the App”) is committed to protecting the privacy of its users.
-This Privacy Policy explains how we collect, use, store, and protect information when you use the TTT Enterprise mobile application.
+TTT Enterprise (“we”, “our”, “the App”) is committed to protecting user privacy.
 
-TTT Enterprise is an internal enterprise application designed for employee work management, including attendance tracking, work requests, and internal communication within an organization. The app is intended for authorized users only.
+This Privacy Policy explains how information is collected, used, and protected when using the TTT Enterprise mobile application.
+
+TTT Enterprise is a business productivity application designed to support attendance tracking, work requests, and internal operational workflows for organizations.
 
 2. Information We Collect
 
-TTT Enterprise collects only the minimum information required to operate core business features.
+We collect only the minimum information required to operate core features.
 
-• Account & Usage Information
+Account & Usage Information
 
-We may collect limited user-related data such as:
+• User account identifier (such as username or internal ID)
+• App usage logs for stability and security
+• Device type and operating system version
 
-Employee account identifier (e.g. work email or internal ID)
+This information is used solely for system functionality and security.
 
-App usage logs (for system stability and security)
+Location Information (Optional)
 
-Device type and operating system version
-
-This data is used solely for internal system functionality and security purposes.
-
-• Location Information (Optional)
-
-If location permission is granted, the app may access approximate or device location only at the moment of specific user actions, such as:
-
-Employee check-in / check-out
-
-Attendance verification
-
-Work activity confirmation (if applicable)
+If permission is granted, the app may access location data only during specific user actions such as:
+• Attendance check-in / check-out
+• Work activity confirmation
 
 Important notes:
+• Location permission is optional
+• Users can deny permission and continue using the app
+• The app does not track location in the background
+• Location data is not used for advertising or analytics
 
-Location access is optional
+Request & Attendance Data
 
-Users may deny location permission and still use the app
-
-The app does not track users continuously
-
-Location data is not collected in the background
-
-Location is not used for marketing or analytics purposes
-
-• Request & Attendance Data
-
-When using attendance or request features, the app may collect:
-
-Selected date and time
-
-Request type (leave, overtime, remote work, etc.)
-
-User-entered notes or attachments (if provided)
+• Date and time selections
+• Request types (leave, overtime, etc.)
+• User-provided notes or attachments
 
 The app does not collect:
+• Payment or banking information
+• Government-issued identifiers
+• Biometric data
 
-Payment information
+3. How We Use Information
 
-Bank card data
+Information is used only to:
+• Process attendance and work requests
+• Support internal business workflows
+• Improve system stability and security
+• Meet legal or organizational requirements
 
-Government-issued identifiers
-
-Biometric data
-
-3. How We Use Your Information
-
-Collected information is used strictly for the following purposes:
-
-Attendance and work activity verification
-
-Processing internal employee requests
-
-Improving system reliability and performance
-
-Ensuring security and preventing unauthorized use
-
-Meeting legal or organizational compliance requirements
-
-We do not use user data for advertising, profiling, or resale.
+We do not use data for advertising or resale.
 
 4. Data Sharing
 
-TTT Enterprise does not sell or rent user data.
+We do not sell or rent user data.
 
-Data may be shared only in limited situations:
-
-• Legal Requirements
-
-If required by law, court order, or regulatory authority.
-
-• Internal System Providers
-
-Trusted infrastructure or analytics services may process anonymized technical data strictly to support system operation.
-
-• Security & Fraud Prevention
-
-If suspicious or unauthorized activity is detected, relevant information may be shared with appropriate internal or legal authorities.
+Data may be shared only:
+• If required by law
+• With trusted infrastructure providers for system operation
+• For security or fraud prevention purposes
 
 5. User Rights
 
-Users have the right to:
-
-Access their stored data (where applicable)
-
-Request correction of inaccurate information
-
-Revoke permissions such as location access
-
-Stop using the application at any time
-
-Most permissions can be managed directly from the device settings.
+Users may:
+• Access and review their data
+• Request correction of inaccurate information
+• Revoke permissions (such as location access)
+• Stop using the app at any time
 
 6. Data Security
 
-We apply reasonable technical and organizational safeguards, including:
+We apply industry-standard safeguards including:
+• Secure data transmission
+• Access control and authorization
+• Encryption where applicable
 
-Secure communication protocols
+7. Policy Updates
 
-Restricted access controls
-
-Encryption where applicable
-
-Regular system and security reviews
-
-While no system can be guaranteed 100% secure, we take data protection seriously and continuously improve our safeguards.
-
-7. Changes to This Privacy Policy
-
-This Privacy Policy may be updated as system features evolve or legal requirements change.
-Significant updates will be communicated through the app or official channels.
+This Privacy Policy may be updated as features evolve.
+Significant changes will be communicated through official channels.
 
 8. Contact Information
-
-For questions or concerns regarding this Privacy Policy, please contact:
 
 Phone: +976 90259509
 Email: e.amaraa.3@gmail.com
